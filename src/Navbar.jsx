@@ -11,7 +11,7 @@ const Navbar = props => {
           <ul className="navbar-nav mr-auto">
             <li className="nav-item active">
               <a className="nav-link" href="#">
-                Cart ({props.totalCount})
+                Ca rt ({props.totalCount})
               </a>
             </li>
           </ul>
